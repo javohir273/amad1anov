@@ -244,7 +244,7 @@
 }
 
 .project-container {
-    max-width: 1224px;
+    max-width: 1320px;
     margin-left: auto;
     margin-right: auto;
     padding-left: 20px;
@@ -349,7 +349,7 @@
 }
 
 .project-col-list {
-    margin-bottom: 48px;
+    margin-bottom: 8px;
 }
 
 .project-col-item {
@@ -479,5 +479,6 @@
     }
     .project-col-link img{
         width: 16.88px;
+        display: flex;
     }
-}
+} 
